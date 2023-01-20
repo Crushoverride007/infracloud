@@ -5,12 +5,14 @@
 export const environment = {
   production: false,
   firebase : {
-    apiKey: 'AIzaSyDdm0h6EtwMcgIkYGNjaWzJ_jluxSzz6_M',
-    authDomain: 'cours-tp.firebaseapp.com',
-    projectId: 'cours-tp',
-    storageBucket: 'cours-tp.appspot.com',
-    messagingSenderId: '954543312031',
-    appId: '1:954543312031:web:c36d681fbbc7c46fd166aa'
+  	apiKey: "AIzaSyBVNltRvYh_SOwuChk4wg86U5Gb9R-DYR8",
+  	authDomain: "infracloud-tp1.firebaseapp.com",
+  	databaseURL: "https://infracloud-tp1-default-rtdb.europe-west1.firebasedatabase.app",
+  	projectId: "infracloud-tp1",
+  	storageBucket: "infracloud-tp1.appspot.com",
+  	messagingSenderId: "653131347441",
+  	appId: "1:653131347441:web:dc89bf388259b56a8f0050",
+  	measurementId: "G-NW96NMRJ3M"
   }
 };
 
