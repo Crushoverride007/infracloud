@@ -5,14 +5,13 @@
 export const environment = {
   production: false,
   firebase : {
-  	apiKey: "AIzaSyBVNltRvYh_SOwuChk4wg86U5Gb9R-DYR8",
-  	authDomain: "infracloud-tp1.firebaseapp.com",
-  	databaseURL: "https://infracloud-tp1-default-rtdb.europe-west1.firebasedatabase.app",
-  	projectId: "infracloud-tp1",
-  	storageBucket: "infracloud-tp1.appspot.com",
-  	messagingSenderId: "653131347441",
-  	appId: "1:653131347441:web:dc89bf388259b56a8f0050",
-  	measurementId: "G-NW96NMRJ3M"
+  	apiKey: "AIzaSyAVqeZliLfie9euF9ZkNcek-CJfPN1uCKQ",
+  	authDomain: "naruto-cloud.firebaseapp.com",
+  	databaseURL: "https://naruto-cloud-default-rtdb.europe-west1.firebasedatabase.app",
+  	projectId: "naruto-cloud",
+  	storageBucket: "naruto-cloud.appspot.com",
+  	messagingSenderId: "96991367015",
+  	appId: "1:96991367015:web:45ec01edd705da569f69c2"
   }
 };
 

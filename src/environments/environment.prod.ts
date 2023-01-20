@@ -1,11 +1,12 @@
 export const environment = {
   production: true,
   firebase : {
-    apiKey: 'AIzaSyDdm0h6EtwMcgIkYGNjaWzJ_jluxSzz6_M',
-    authDomain: 'cours-tp.firebaseapp.com',
-    projectId: 'cours-tp',
-    storageBucket: 'cours-tp.appspot.com',
-    messagingSenderId: '954543312031',
-    appId: '1:954543312031:web:c36d681fbbc7c46fd166aa'
+  	apiKey: "AIzaSyAVqeZliLfie9euF9ZkNcek-CJfPN1uCKQ",
+  	authDomain: "naruto-cloud.firebaseapp.com",
+  	databaseURL: "https://naruto-cloud-default-rtdb.europe-west1.firebasedatabase.app",
+  	projectId: "naruto-cloud",
+  	storageBucket: "naruto-cloud.appspot.com",
+  	messagingSenderId: "96991367015",
+  	appId: "1:96991367015:web:45ec01edd705da569f69c2"
   }
 };
